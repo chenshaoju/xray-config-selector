@@ -21,3 +21,8 @@
     ├── config1.json
     ├── google_node.json
     └── gaming_mode.json
+```
+
+## 🎉 感谢
+[Google Gemini](https://gemini.google.com/share/2e90de894458)
+[Xray](https://github.com/XTLS/Xray-core)
